@@ -1,0 +1,30 @@
+/* Classes */
+.highlightPink {
+    background-color: pink;
+    border: 2px solid green;
+    border-radius: 10px;
+}
+.centerWidth {
+    text-align: center;
+}
+.memes {
+    width: 500px;
+}
+
+/* IDs */
+#MBimage {
+    border: 2px solid black;
+    height: 250px;
+    width: 250px;
+    border-radius: 175px;
+}
+#ThisIsNotHere {
+    border: 1px dashed rgb(216, 216, 216);
+    padding-left: 60px;
+}
+
+/* Types */
+div {
+    color: burlywood;
+    width: 300px;
+}
